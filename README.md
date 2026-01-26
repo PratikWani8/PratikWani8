@@ -1,3 +1,11 @@
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Pratik Wani</h1>
+<h3 align="center">MERN Stack Developer</h3>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=PratikWani8">
+  </a>
+</p>
+
 <img src="https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv" alt="Banner" width="100%" />
 
 ## 📌 About Me
