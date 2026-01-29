@@ -16,9 +16,8 @@
   ![](https://github-readme-stats.vercel.app/api?username=PratikWani8&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=PratikWani8&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PratikWani8&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=PratikWani8&theme=merko&radius=10" alt="PratikWani8's Activity Graph" />
-</p>
+
+<img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=PratikWani8&theme=merko&radius=10" alt="PratikWani8's Activity Graph" />
 
 
 ## 🛠️ Languages & Tools
