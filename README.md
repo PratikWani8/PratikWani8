@@ -10,6 +10,7 @@
 
 ## 📌 About Me
 - I am MERN Stack Developer. I code because Nobody Does It Better :)
+- Won 3x Hackathons🏆
 
 
 ## 📊 GitHub Stats & Trophies
