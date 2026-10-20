@@ -1,40 +1,113 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Pratik Wani</h1>
-<h3 align="center">Full Stack Developer</h3>
+<div align="center">
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=pratikwani8&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F200881950%3Fu%3De7388797e97ab1a351f159a7cfe1a197997cfca8%26v%3D4&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=pratikwani8&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F200881950%3Fu%3De7388797e97ab1a351f159a7cfe1a197997cfca8%26v%3D4&mode=dark" width="100%" alt="Pratik Wani  — profile" />
+  </picture>
+
+<h1>Pratik Wani </h1>
+<p><strong>Full-Stack Developer</strong></p>
+<p>Building useful things with JavaScript and shipping in public.</p>
+<p><sub>Based in India</sub></p>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>6</strong><br /><sub>Followers</sub></td>
+<td width="25%" align="center"><strong>20</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>55</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>1,700</strong><br /><sub>Contributions</sub></td>
+</tr>
+</table>
+
+<p><a href="https://github.com/pratikwani8">GitHub</a> &nbsp;·&nbsp; <a href="https://pratikwani.vercel.app">Website</a></p>
+</div>
+
+<h2>Building in public</h2>
+
+<table width="100%">
+<tr>
+<td width="62%" valign="top">
+<p>Building useful things with JavaScript and shipping in public.</p>
+<p><strong>Focus:</strong> JavaScript · Python · TypeScript</p>
+<p><sub>Designed to make the work, momentum, and next conversation easy to find.</sub></p>
+</td>
+<td width="38%" valign="top">
+<img src="https://www.gitskins.com/api/section/portrait?username=pratikwani8&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F200881950%3Fu%3De7388797e97ab1a351f159a7cfe1a197997cfca8%26v%3D4&color=1&v=showcase-portrait-1" width="100%" alt="Pratik Wani  animated colored ASCII portrait" />
+</td>
+</tr>
+</table>
+
+<h2>What I’m shipping</h2>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=PratikWani8">
-  </a>
+  <img src="https://www.gitskins.com/api/section/highlights?username=pratikwani8&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F200881950%3Fu%3De7388797e97ab1a351f159a7cfe1a197997cfca8%26v%3D4&items=JavaScript%3A%3A20%20public%20repositories%7CMindGuard-2.0%3A%3AAgentic%20mental%20health%20wellness%20early-warning%20p%7CImpact%3A%3A55%20stars%20%C2%B7%20186%20active%20days" width="100%" alt="Highlights" />
 </p>
 
-<img src="https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv" alt="Banner" width="100%" />
+<h2>Featured work</h2>
 
-## 📌 About Me
-- I code because Nobody Does It Better ;)
-- Won 3x Hackathons🏆
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<img src="https://www.gitskins.com/api/section/projects?username=pratikwani8&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F200881950%3Fu%3De7388797e97ab1a351f159a7cfe1a197997cfca8%26v%3D4" width="100%" alt="Featured projects" />
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/PratikWani8/MindGuard-2.0"><strong>MindGuard-2.0</strong></a></h3>
+<p>Agentic mental health wellness early-warning platform.</p>
+<p><sub>JavaScript · ⭐ 2 stars · 0 forks</sub></p>
+<p><a href="https://github.com/PratikWani8/MindGuard-2.0">View project →</a></p>
+</td>
+</tr>
+</table>
 
-## 🛠️ Languages & Tools
+<h2>Selected work</h2>
 
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+<h3><a href="https://github.com/PratikWani8/MindGuard-2.0"><strong>MindGuard-2.0</strong></a></h3>
+<p>Agentic mental health wellness early-warning platform.</p>
+<p><sub>JavaScript · ⭐ 2</sub></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="https://github.com/PratikWani8/MarineGuard"><strong>MarineGuard</strong></a></h3>
+<p>AI-Powered Underwater Marine Debris and Anomaly Detection System.</p>
+<p><sub>JavaScript · ⭐ 6</sub></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="https://github.com/PratikWani8/Raksha-2.0"><strong>Raksha-2.0</strong></a></h3>
+<p>A.I based smart women safety platform.</p>
+<p><sub>JavaScript · ⭐ 3</sub></p>
+</td>
+</tr>
+</table>
 
-> ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /></p>
+<h2>Signal</h2>
 
-> ## Backend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=pratikwani8&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F200881950%3Fu%3De7388797e97ab1a351f159a7cfe1a197997cfca8%26v%3D4" width="100%" alt="55 stars across 20 repositories" />
+</p>
 
-> ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /></p>
+<h2>Stack</h2>
 
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=pratikwani8&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F200881950%3Fu%3De7388797e97ab1a351f159a7cfe1a197997cfca8%26v%3D4" width="100%" alt="Language stack" />
+</p>
 
+<h2>Activity</h2>
 
-## 🔗 Connect with Me
-<p align="left"> <a href="https://www.linkedin.com/in/pratik-wani-210b31328" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Pratik Wani's LinkedIn"/></a> <a href="https://pratikwani.netlify.app" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=pratikwani8&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F200881950%3Fu%3De7388797e97ab1a351f159a7cfe1a197997cfca8%26v%3D4&mode=light" />
+    <img src="https://www.gitskins.com/api/section/heatmap?username=pratikwani8&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F200881950%3Fu%3De7388797e97ab1a351f159a7cfe1a197997cfca8%26v%3D4&mode=dark" width="100%" alt="1700 contributions in the last year" />
+  </picture>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s build something</h2><p>Open to thoughtful collaboration, ambitious products, and useful open-source work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/pratikwani8">GitHub</a><br /><a href="https://pratikwani.vercel.app">Website</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Pratik Wani  · live profile data, designed with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
