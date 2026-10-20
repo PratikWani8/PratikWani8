@@ -36,50 +36,6 @@
 </tr>
 </table>
 
-<h2>What I’m shipping</h2>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=pratikwani8&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F200881950%3Fu%3De7388797e97ab1a351f159a7cfe1a197997cfca8%26v%3D4&items=JavaScript%3A%3A20%20public%20repositories%7CMindGuard-2.0%3A%3AAgentic%20mental%20health%20wellness%20early-warning%20p%7CImpact%3A%3A55%20stars%20%C2%B7%20186%20active%20days" width="100%" alt="Highlights" />
-</p>
-
-<h2>Featured work</h2>
-
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<img src="https://www.gitskins.com/api/section/projects?username=pratikwani8&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F200881950%3Fu%3De7388797e97ab1a351f159a7cfe1a197997cfca8%26v%3D4" width="100%" alt="Featured projects" />
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/PratikWani8/MindGuard-2.0"><strong>MindGuard-2.0</strong></a></h3>
-<p>Agentic mental health wellness early-warning platform.</p>
-<p><sub>JavaScript · ⭐ 2 stars · 0 forks</sub></p>
-<p><a href="https://github.com/PratikWani8/MindGuard-2.0">View project →</a></p>
-</td>
-</tr>
-</table>
-
-<h2>Selected work</h2>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-<h3><a href="https://github.com/PratikWani8/MindGuard-2.0"><strong>MindGuard-2.0</strong></a></h3>
-<p>Agentic mental health wellness early-warning platform.</p>
-<p><sub>JavaScript · ⭐ 2</sub></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="https://github.com/PratikWani8/MarineGuard"><strong>MarineGuard</strong></a></h3>
-<p>AI-Powered Underwater Marine Debris and Anomaly Detection System.</p>
-<p><sub>JavaScript · ⭐ 6</sub></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="https://github.com/PratikWani8/Raksha-2.0"><strong>Raksha-2.0</strong></a></h3>
-<p>A.I based smart women safety platform.</p>
-<p><sub>JavaScript · ⭐ 3</sub></p>
-</td>
-</tr>
-</table>
-
 <h2>Signal</h2>
 
 <p align="center">
