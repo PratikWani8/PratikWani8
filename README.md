@@ -10,12 +10,12 @@
 - I code because Nobody Does It Better ;)
 - Won 3x Hackathons🏆
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=pratikwani8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Pratik Wani's GitHub stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikwani8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Pratik Wani's most used languages" height="180"/>
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://streak-stats.demolab.com/?user=pratikwani8&theme=tokyonight&hide_border=true&background=0D1117" alt="Pratik Wani's GitHub streak" />
 </div>
 
